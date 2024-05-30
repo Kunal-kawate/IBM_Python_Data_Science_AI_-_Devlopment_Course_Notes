@@ -41,6 +41,7 @@ Welcome to the repository for my comprehensive notes on Python Data Science, Art
 ### Contributions
 
 Contributions are welcome! If you have suggestions for improvements or additional topics, feel free to open an issue or submit a pull request.
+contact - kunalkawate424@gmail.com
 
 ### License
 
