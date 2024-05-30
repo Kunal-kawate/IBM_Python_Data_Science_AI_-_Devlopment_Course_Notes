@@ -28,11 +28,11 @@ Welcome to the repository for my comprehensive notes on Python Data Science, Art
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/Kunal-kawate/IBM_Python_Data_Science_AI_-_Devlopment_Course_Notes.git
+   git clone https://github.com/Kunal-kawate/IBM_Python_Data_Science_AI_-_Development_Course_Notes.git
    ```
 2. **Navigate to the Directory**:
    ```sh
-   cd IBM_Python_Data_Science_AI_-_Devlopment_Course_Notes
+   cd IBM_Python_Data_Science_AI_-_Development_Course_Notes
    ```
 3. **Explore the Notes**: Browse through the organized notes and code examples to enhance your learning.
 
