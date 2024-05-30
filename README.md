@@ -2,6 +2,8 @@
 
 Welcome to the repository for my comprehensive notes on Python Data Science, Artificial Intelligence (AI), and Development. These notes were created during my completion of the Python Data Science, AI, and Development course offered by IBM on Coursera. This repository is designed to be a valuable resource for anyone looking to deepen their understanding of Python and its applications in data science and AI.
 
+![Course Certificate](https://github.com/Kunal-kawate/IBM_Python_Data_Science_AI_Development_Course_Notes/blob/main/Certificate/Course%20Certificate.jpg)
+
 ### Repository Contents
 
 - **Python Basics**: Fundamentals of Python programming including syntax, data types, control structures, functions, and error handling.
